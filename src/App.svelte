@@ -18,7 +18,17 @@
 
 <Blur />
 
+<p id="bazinga">Bazinga</p>
 <Content />
 
 <!-- Keep at bottom of page -->
 <CustomParticles />
+
+<style>
+    #bazinga {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        color: black;
+    }
+</style>

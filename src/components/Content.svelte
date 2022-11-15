@@ -86,6 +86,11 @@
         color: rgb(190, 186, 159);
     }
 
+    #vote-button {
+        background-color: #1b1b1b;
+        border: 1px solid #bdb9a1;
+    }
+
     @media only screen and (max-width: 700px) {
         .desc {
             flex-direction: column;
@@ -127,7 +132,9 @@
 
     .content iframe {
         min-height: 3000px;
+        border-radius: 8px;
     }
+
     :global(.ff-powered-img) {
         visibility: hidden;
     }
