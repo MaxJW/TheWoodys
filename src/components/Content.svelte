@@ -24,6 +24,7 @@
             type="button"
             value="Vote Here"
             href="#form"
+            id="vote-button"
             on:click|preventDefault={scrollIntoView}
         />
     </div>
@@ -94,6 +95,8 @@
 
         .text {
             text-align: center;
+            display: flex;
+            flex-direction: column;
         }
 
         .text h1 {
@@ -102,6 +105,11 @@
 
         .text p {
             font-size: 1em;
+        }
+
+        #vote-button {
+            max-width: 50%;
+            align-self: center;
         }
     }
 
