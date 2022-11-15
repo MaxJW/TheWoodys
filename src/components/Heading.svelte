@@ -51,7 +51,7 @@
         text-align: center;
         pointer-events: all;
         width: 100%;
-        z-index: 11;
+        z-index: 100;
         margin-top: 1em;
         display: flex;
     }
