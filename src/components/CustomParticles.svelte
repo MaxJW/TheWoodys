@@ -3,13 +3,7 @@
     import { loadFull } from 'tsparticles';
 
     const p = {
-        fpsLimit: 60,
-        background: {
-            image: "url('/images/presenter.png')",
-            repeat: 'no-repeat',
-            position: 'bottom 10px left 10px',
-            size: 'auto 250px',
-        },
+        fpsLimit: 165,
         emitters: {
             direction: 'top',
             size: {

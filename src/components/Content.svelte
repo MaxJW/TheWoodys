@@ -18,11 +18,10 @@
         position: relative;
         z-index: 1;
         margin-top: 4em;
-        position: absolute;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        top: 11vh;
+    }
+
+    .content iframe {
+        min-height: 3000px;
     }
     :global(.ff-powered-img) {
         visibility: hidden;

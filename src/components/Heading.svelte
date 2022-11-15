@@ -43,6 +43,7 @@
         overflow: hidden;
         align-self: center;
         max-height: 10vh;
+        filter: drop-shadow(0px 5px 20px #000);
     }
 
     .heading {
