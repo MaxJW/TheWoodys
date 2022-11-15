@@ -11,6 +11,6 @@
 <Blur />
 
 <Content />
-
+<p style="text-align: center; color: #beba9f;">Sponsored by Young Sheldon</p>
 <!-- Keep at bottom of page -->
 <CustomParticles />
