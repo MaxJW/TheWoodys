@@ -3,17 +3,18 @@
     import { OnMount } from 'fractils';
 
     let innerHeight = 0;
+    let innerWidth = 0;
     let timer = 1500;
 </script>
 
-<svelte:window bind:innerHeight />
+<svelte:window bind:innerHeight bind:innerWidth />
 
 <OnMount>
     <div
         class="heading"
         in:scale={{
             duration: timer,
-            start: 2,
+            start: innerWidth < 500 ? 1.3 : 2,
             opacity: 1,
             delay: timer,
         }}
