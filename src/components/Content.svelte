@@ -20,17 +20,15 @@
             hottest moments of the year. Have your say by nominating and voting to commemorate your
             favourite moments of this year.
         </p>
-        <input
-            type="button"
-            value="Vote Here"
-            href="#form"
-            id="vote-button"
-            on:click|preventDefault={scrollIntoView}
-        />
+        <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSeyn7ZxSpbLs4-eDjLKtx-Ph4P5NK8-XB6BPo-oxf0U0f-9Ew/viewform"
+        >
+            <input type="button" value="Vote Here" id="vote-button" />
+        </a>
     </div>
 </div>
 
-<div class="content" id="form">
+<!-- <div class="content" id="form">
     <iframe
         title="The Woodys Form"
         src="https://docs.google.com/forms/d/e/1FAIpQLSeyn7ZxSpbLs4-eDjLKtx-Ph4P5NK8-XB6BPo-oxf0U0f-9Ew/viewform?embedded=true"
@@ -40,8 +38,7 @@
         marginheight="0"
         marginwidth="0">Loading…</iframe
     >
-</div>
-
+</div> -->
 <style>
     .sponsor {
         text-align: center;
