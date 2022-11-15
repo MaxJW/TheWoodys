@@ -1,0 +1,13 @@
+body,
+html {
+	margin: 0px auto;
+	margin-top: 1em;
+
+	background-color: #000000;
+
+	font-family: 'Figtree', sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	-webkit-font-smoothing: subpixel-antialiased;
+	text-rendering: optimizeLegibility;
+}
