@@ -46,6 +46,7 @@
     .sponsor {
         text-align: center;
         color: #beba9f;
+        z-index: 10;
     }
 
     .desc {
@@ -53,6 +54,7 @@
         align-items: center;
         justify-content: center;
         flex-direction: row;
+        z-index: 10;
     }
 
     img {
@@ -65,11 +67,13 @@
         display: flex;
         padding-right: 29px;
         justify-content: center;
+        z-index: 10;
     }
 
     .text {
         font-size: 20px;
         padding-left: 20px;
+        z-index: 10;
     }
 
     .text h1 {
@@ -118,6 +122,7 @@
         z-index: 1;
         margin-top: 4em;
         scroll-margin: 5vh;
+        z-index: 10;
     }
 
     .content iframe {
