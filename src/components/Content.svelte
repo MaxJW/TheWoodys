@@ -101,6 +101,8 @@
             text-align: center;
             display: flex;
             flex-direction: column;
+            padding-left: 0;
+            min-height: 65vh;
         }
 
         .text h1 {
