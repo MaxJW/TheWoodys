@@ -20,9 +20,7 @@
             hottest moments of the year. Have your say by nominating and voting to commemorate your
             favourite moments of this year.
         </p>
-        <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLSeyn7ZxSpbLs4-eDjLKtx-Ph4P5NK8-XB6BPo-oxf0U0f-9Ew/viewform"
-        >
+        <a href="https://forms.gle/vKjhQVEcyeMRdeJ59">
             <input type="button" value="Vote Here" id="vote-button" />
         </a>
     </div>
@@ -113,7 +111,7 @@
             font-size: 1em;
         }
 
-        #vote-button {
+        a {
             max-width: 50%;
             align-self: center;
         }
@@ -130,9 +128,5 @@
     .content iframe {
         min-height: 3000px;
         border-radius: 8px;
-    }
-
-    :global(.ff-powered-img) {
-        visibility: hidden;
     }
 </style>
