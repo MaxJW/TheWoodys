@@ -18,9 +18,9 @@
         <p>
             Ending 2022 with a bang by remembering the greatest, funniest, sad boi, and definitely
             hottest moments of the year. Have your say by nominating and voting to commemorate your
-            favourite moments of this year.
+            favourite moments of this year. Voting is now open!
         </p>
-        <a href="https://forms.gle/vKjhQVEcyeMRdeJ59">
+        <a href="https://forms.gle/zy3nqVCpohf3YBXZ8">
             <input type="button" value="Vote Here" id="vote-button" />
         </a>
     </div>
