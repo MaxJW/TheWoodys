@@ -8,19 +8,18 @@
     }
 </script>
 
-<p class="sponsor">Sponsored by Young Sheldon</p>
 <div class="desc">
     <div class="image">
         <img src="images/presenter.png" alt="Presenter" />
     </div>
     <div class="text">
-        <h1>REMEMBERING THE BEST OF 2022</h1>
+        <h1>REMEMBERING THE BEST OF 2023</h1>
         <p>
-            Ending 2022 with a bang by remembering the greatest, funniest, sad boi, and definitely
+            Ending 2023 with a bang by remembering the greatest, funniest, sad boi, and definitely
             hottest moments of the year. Have your say by nominating and voting to commemorate your
             favourite moments of this year. Voting is now open!
         </p>
-        <a href="https://forms.gle/zy3nqVCpohf3YBXZ8">
+        <a href="https://docs.google.com/forms/d/1-7Kfi1XeTSgT9Uwy-ZuBAnby1zi0Wf9SFEzML7QLVUI">
             <input type="button" value="Vote Here" id="vote-button" />
         </a>
     </div>
