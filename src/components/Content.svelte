@@ -17,25 +17,14 @@
         <p>
             Ending 2023 with a bang by remembering the greatest, funniest, sad boi, and definitely
             hottest moments of the year. Have your say by nominating and voting to commemorate your
-            favourite moments of this year. Voting is now open!
+            favourite moments of this year.<br />Voting is not yet open.
         </p>
         <a href="https://docs.google.com/forms/d/1-7Kfi1XeTSgT9Uwy-ZuBAnby1zi0Wf9SFEzML7QLVUI">
-            <input type="button" value="Vote Here" id="vote-button" />
+            <input type="button" value="Vote Here" id="vote-button" disabled />
         </a>
     </div>
 </div>
 
-<!-- <div class="content" id="form">
-    <iframe
-        title="The Woodys Form"
-        src="https://docs.google.com/forms/d/e/1FAIpQLSeyn7ZxSpbLs4-eDjLKtx-Ph4P5NK8-XB6BPo-oxf0U0f-9Ew/viewform?embedded=true"
-        width="100%"
-        height="100%"
-        frameborder="0"
-        marginheight="0"
-        marginwidth="0">Loading…</iframe
-    >
-</div> -->
 <style>
     .sponsor {
         text-align: center;
@@ -116,18 +105,5 @@
             max-width: 50%;
             align-self: center;
         }
-    }
-
-    .content {
-        position: relative;
-        z-index: 1;
-        margin-top: 4em;
-        scroll-margin: 5vh;
-        z-index: 10;
-    }
-
-    .content iframe {
-        min-height: 3000px;
-        border-radius: 8px;
     }
 </style>
