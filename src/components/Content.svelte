@@ -16,7 +16,7 @@
         <h1>REMEMBERING THE BEST OF 202<span class="handwritten">3</span></h1>
         <p>
             Ending 202<span class="handwritten">3</span> with a bang by remembering the greatest,
-            funniest, sad boi, and definitely hottest moments of the year. Have your say by
+            funniest, and definitely hottest moments of the year. Have your say by
             nominating and voting to commemorate your favourite moments of this year.<br />Voting is
             not yet open.
         </p>
