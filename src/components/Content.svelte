@@ -15,12 +15,12 @@
     <div class="text">
         <h1>REMEMBERING THE BEST OF 202<span class="handwritten">3</span></h1>
         <p>
-            Ending 202<span class="handwritten">3</span> with a bang by remembering the greatest,
-            funniest, and definitely hottest moments of the year. Have your say by
-            nominating and voting to commemorate your favourite moments of this year.
+            Ending 202<span class="handwritten">3</span> with a bang by remembering the greatest, funniest,
+            and definitely hottest moments of the year. Have your say by nominating and voting to commemorate
+            your favourite moments of this year.
         </p>
-        <a href="https://docs.google.com/forms/d/1-7Kfi1XeTSgT9Uwy-ZuBAnby1zi0Wf9SFEzML7QLVUI">
-            <input type="button" value="Vote Here" id="vote-button" />
+        <a href="https://forms.gle/VMhDfCEkqaEFf9V46">
+            <input type="button" value="Nominations are now OPEN!" id="vote-button" />
         </a>
     </div>
 </div>
